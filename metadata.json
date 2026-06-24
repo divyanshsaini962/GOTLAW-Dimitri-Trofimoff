@@ -1,0 +1,6 @@
+{
+  "name": "Gotlaw - Dimitri Trofimoff Lawyer",
+  "description": "Premium website for Dimitri Trofimoff, Barrister & Solicitor, specializing in Family and Criminal Law in Ottawa, Kanata, Perth, Brockville, and surrounding areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
